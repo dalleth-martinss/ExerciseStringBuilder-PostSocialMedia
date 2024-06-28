@@ -26,12 +26,17 @@ namespace ExerciceStringBuilderPostSocialMedia
             Comment c4 = new Comment("May the Force be with you ");
             Post p2 = new Post(
                 DateTime.Parse("28/07/2024  22:13:51"),
-                "I'll to sleep now",
+                "I'll to sleep now ",
                 "See you tomorrow",
                 5);
 
             p2.AddComment(c3);
             p2.AddComment(c4);
+
+            Console.WriteLine(p1);
+            Console.WriteLine(p2);
+
+            Console.ReadLine();
 
         }
     }
