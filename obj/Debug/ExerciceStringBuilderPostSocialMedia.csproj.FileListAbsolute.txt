@@ -1,0 +1,7 @@
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciceStringBuilderPostSocialMedia\bin\Debug\ExerciceStringBuilderPostSocialMedia.exe.config
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciceStringBuilderPostSocialMedia\bin\Debug\ExerciceStringBuilderPostSocialMedia.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciceStringBuilderPostSocialMedia\bin\Debug\ExerciceStringBuilderPostSocialMedia.pdb
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciceStringBuilderPostSocialMedia\obj\Debug\ExerciceStringBuilderPostSocialMedia.csproj.AssemblyReference.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciceStringBuilderPostSocialMedia\obj\Debug\ExerciceStringBuilderPostSocialMedia.csproj.CoreCompileInputs.cache
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciceStringBuilderPostSocialMedia\obj\Debug\ExerciceStringBuilderPostSocialMedia.exe
+C:\Users\DallethMartins\OneDrive\Documentos\CURSO-NELIO-ALVES-CSHARP\ExerciceStringBuilderPostSocialMedia\obj\Debug\ExerciceStringBuilderPostSocialMedia.pdb
