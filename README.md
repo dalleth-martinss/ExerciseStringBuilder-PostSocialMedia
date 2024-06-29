@@ -22,7 +22,7 @@ Este exercício consiste em criar uma classe que simula um sistema de postagens 
     
 4. Navegue até o diretório do projeto:
     ```bash
-    cd simulacao-postagens
+    cd nome da pasta que você fez o fork
     ```
 5. Compile o projeto:
     ```bash

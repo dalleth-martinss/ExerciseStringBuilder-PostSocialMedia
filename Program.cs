@@ -36,6 +36,10 @@ namespace ExerciceStringBuilderPostSocialMedia
             Console.WriteLine(p1);
             Console.WriteLine(p2);
 
+            
+
+
+
             Console.ReadLine();
 
         }
